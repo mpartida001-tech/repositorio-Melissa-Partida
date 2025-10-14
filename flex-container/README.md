@@ -1,4 +1,4 @@
-# flex-container
+Actividad sesión 17 sobre flex-box y flex-container. # flex-container
 
 A Pen created on CodePen.
 
